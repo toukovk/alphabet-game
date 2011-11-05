@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.toukovainiokaila.alphabet"
+      android:versionCode="4"
+      android:versionName="0.3">
+    <uses-sdk android:minSdkVersion="7" />
+
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name=".AlphabetGameActivity"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".About" 
+        	android:label="@string/about_label"
+        	android:theme="@android:style/Theme.Dialog"/>
+        <activity android:name=".Game" 
+        	android:label="@string/main_title" />
+    </application>
+</manifest>

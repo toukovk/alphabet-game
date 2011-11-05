@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_title">Aakkoset!</string>
+    <string name="app_name">Aakkoset</string>
+   
+    <string name="start_label">Käynnistä</string>
+    <string name="about_label">Tietoja</string>
+    <string name="exit_label">Lopeta</string>
+    
+    <string name="press_a_key">Valitse kirjain!</string>
+    
+    <string name="about_text" formatted="false">\
+Aakkoset! on ohjelma aakkosiin tutustumista varten.
+Ohjelma vastaa painettuihin aakkosiin, joita voidaan syöttää joko\n
+a) suoraan fyysiseltä näppäimistöltä\n
+b) ohjelmalliselta näppäimistöltä, joka saadaan esille syöttöboksia painamalla.\n
+\n
+Lisätietoja : http://koti.kapsi.fi/~tvainiok/aakkoset/\n\n
+Ohjelma Touko Vainio-Kaila\n\n
+Puhe Vesa Linja-aho (esityksestä ´Aakkoset kuvina´, 
+http://www.slideshare.net/linjaaho/aakkoset-lapsille-kuvina).\n\n
+Kuvat Wikipedia Commons (lähteet, tekijät ja lisenssit kuvittain):\n\n
+a Apina http://commons.wikimedia.org/wiki/File:Watching-waiting-hoping.jpg  CC BY-SA 2.0 (Keven Law)\n
+b Banaani http://commons.wikimedia.org/wiki/File:Banana.png Public Domain 1.2 Mschel\n
+c Cowboy http://commons.wikimedia.org/wiki/File:The_Cow_Boy_1888.jpg Public Domain\n
+d Dynamiitti http://commons.wikimedia.org/wiki/File:Dynamite_clipart.jpg Public Domain\n
+e Eskimo http://commons.wikimedia.org/wiki/File:Siberian-eskimo-Nabogatova-.PNG Public Domain\n
+f Faarao http://commons.wikimedia.org/wiki/File:Tutanchamon_%28js%29_1.jpg CC BY-SA 3.0 Jerzy Strzelecki\n
+g Guru http://commons.wikimedia.org/wiki/File:Guru_nanak.jpg Public Domain\n
+h Hirvi http://commons.wikimedia.org/wiki/File:Elgportraet_han_%28Alces_alces%29.jpg CC BY-SA 2.5 Malene Thyssen\n
+i Ilmapallo http://commons.wikimedia.org/wiki/File:Balloons-aj.svg Public Domain http://openclipart.org/media/people/AJ\n
+j Jänis http://commons.wikimedia.org/wiki/File:Mountain_Hare_Scotland.jpg Public Domain Andrew Easton\n
+k Kirves http://commons.wikimedia.org/wiki/File:Felling_axe.jpg  CC BY-SA 3.0 Takunawan(?)\n
+l Lapsi http://commons.wikimedia.org/wiki/File:Bregenzerwaldtracht.JPG  Creative Commons Attribution-Share Alike 2.5 Generic Böhringer Friedrich\n
+m Muna http://commons.wikimedia.org/wiki/File:White_chicken_egg_square.jpg CC BY 2.0 Ren West\n
+n Norsu http://en.wikipedia.org/wiki/File:Elephant_near_ndutu.jpg  CC BY-SA 2.0 nickandmel2006 on flickr\n
+o Orava http://commons.wikimedia.org/wiki/File:MattiParkkonen_Orava.jpg Public Domain Matti Parkkonen\n
+p Pallo http://commons.wikimedia.org/wiki/File:Soccer_ball.svg CC BY-SA 2.5  Pumbaa80\n
+q Quiche http://commons.wikimedia.org/wiki/File:Brunch_Quiche.jpg  CC BY 2.0 Laura from Boston http://www.flickr.com/people/52461758@N00\n
+r Roskapönttö http://commons.wikimedia.org/wiki/File:2003-09-30_Trash_can.jpg Public Domain Ildar Sagdejev \n
+s Siili http://commons.wikimedia.org/wiki/File:Keqs_young_european_hedgehog1.jpg CC BY-SA 2.5 Generic Lars Karlsson\n
+t Tuuba http://commons.wikimedia.org/wiki/File:Tuba_25J_Conn_BBb.jpg CC BY-SA 3.0 (uploaded by Udi Raz)\n
+u Ukkonen http://upload.wikimedia.org/wikipedia/commons/7/73/LightningToronto.jpg CC BY-SA 3.0 User:Jok2000\n
+v Vauva http://commons.wikimedia.org/wiki/File:3_week_old_swaddled_infant.png  CC BY-SA 3.0 Azoreg\n
+w WC-paperi http://commons.wikimedia.org/wiki/File:Toiletpapier_%28Gobran111%29.jpg  CC BY 2.5 Brandon Blinkenberg\n
+x X-kromosomi http://commons.wikimedia.org/wiki/File:Chromosome.svg  CC BY-SA 3.0 Original version: Magnus Manske, derivative work: Tryphon\n
+y Ympyrä http://commons.wikimedia.org/wiki/File:Circle_-_black_simple.svg Public Domain\n
+z Zeppeliini http://commons.wikimedia.org/wiki/File:Zeppellin_NT_2_amk.JPG  CC BY-SA 3.0 AngMoKio\n
+å Åke http://commons.wikimedia.org/wiki/File:Swedish_Fans_on_the_Friedensplatz_Dortmund.jpg  CC BY 2.0 ulrich_berkner\n
+ä Ämpäri http://commons.wikimedia.org/wiki/File:Balde.PNG Public Domain\n
+ö Ötökkä http://commons.wikimedia.org/wiki/File:Forficula_auricularia-Male-1.jpg CC BY-SA 3.0 Eugene Zelenko\n
+</string>
+</resources>

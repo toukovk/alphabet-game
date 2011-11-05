@@ -1,0 +1,5 @@
+h2. AlphabetGame (Aakkoset!)
+	
+A simple android application for kids learning alphabet.
+	
+Origins & licences for used media listed in MEDIA_ORIGINS_AND_LICENCES.TXT
